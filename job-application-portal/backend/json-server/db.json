@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "userId": "1",
+      "userName": "prathyush",
+      "userEmail": "prathyush@example.com",
+      "userPassword": "$2b$10$abc123hashedvalue",
+      "id": "1458"
+    },
+    {
+      "id": "d189",
+      "userName": "Haritha",
+      "userEmail": "Haritha@example.com",
+      "userPassword": "$2b$10$DUfezoeNmwg/PvCr2I/Xi.hmGkJ6OhlkqXPT93awqbl7DpYTWkLyi",
+      "userId": "0ec97c81-22b8-4610-b7be-083113bd8098"
+    }
+  ],
+  "userLoginStatus":[
+    
+  ]
+}
